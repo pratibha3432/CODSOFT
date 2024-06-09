@@ -1,0 +1,65 @@
+.head {
+    border: 1px solid gray;
+    background-color: whitesmoke;
+}
+
+.head1 {
+    background-color: rgb(11, 10, 10);
+    box-shadow: 2px 3px 4px rgb(212, 237, 237);
+    color: white;
+}
+
+.page {
+    margin-left: 100px;
+}
+
+.page1 {
+    margin-left: 150px;
+    margin-top: -21px;
+}
+
+.image {
+    border: 1px solid black;
+    width: 1455px;
+    height: 550px;
+    background-color: whitesmoke;
+}
+
+.aboutus {
+    border: 1px solid black;
+    height: 650px;
+    background-color: rgb(247, 228, 211);
+}
+
+.us {
+    display: none;
+    border: 1px solid black;
+    width: 1350px;
+    height: 550px;
+    margin-top: 25px;
+    margin-left: 50px;
+    background-color: rgb(208, 162, 162);
+}
+
+.about {
+    margin-left: 50px;
+
+}
+
+.info {
+    width: 600px;
+    margin-left: 30px;
+}
+
+.courses {
+    margin-left: 30px;
+}
+
+.img {
+    margin-left: 850px;
+    margin-top: -430px;
+}
+
+.button {
+    background-color: rgb(208, 162, 162);
+}

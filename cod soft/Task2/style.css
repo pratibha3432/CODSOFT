@@ -1,0 +1,55 @@
+.header {
+    border: 1px solid rgb(247, 238, 227);
+    height: 1000px;
+    margin-left: 230px;
+    margin-right: 230px;
+    background-color: rgb(247, 238, 227);
+    border-radius: 20px;
+}
+
+.image {
+    border: 1px solid rgb(157, 156, 156);
+    width: 255px;
+    margin-left: 162px;
+    margin-top: 15px;
+    height: 275px;
+    box-shadow: 2px 2px 3px rgb(157, 156, 156);
+}
+
+.info {
+    margin-left: 530px;
+    margin-top: -290px;
+}
+
+.about {
+    width: 350px;
+}
+
+.profile {
+    text-align: center;
+}
+
+.skill {
+
+    width: 350px;
+    margin-left: 155px;
+}
+
+.education {
+    margin-left: 565px;
+    margin-top: -167px;
+    width: 350px;
+}
+
+.project {
+
+    width: 350px;
+    margin-left: 155px;
+}
+
+.resume {
+
+    margin-left: 565px;
+    margin-top: -164px;
+    width: 350px;
+}
